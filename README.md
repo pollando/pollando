@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pollando
-- 👀 I’m interested in cloud computing security
+- 👀 I’m interested in Cloud Computing Security Architect
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on data analytics and cloud computing projects...
 - 📫 How to reach me ...https://www.linkedin.com/in/dave-esiat/
